@@ -57,4 +57,4 @@ Feel free to fork the repository, create new branches, and submit pull requests 
 This project is open source and available under the MIT License.
 ## Screenshot
 
-![Project Screenshot](./assets/EmployeeManegementSystem.png)
+![Project Screenshot](./EmployeeManegementSystem.png)
